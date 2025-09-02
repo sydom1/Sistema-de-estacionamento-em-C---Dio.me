@@ -1,11 +1,13 @@
 __Sistema de Gerenciamento de Estacionamento em C#__
 
 📖 Sobre o Projeto
+
 Este projeto foi desenvolvido como parte do Desafio de Projeto "Construindo um Sistema de Estacionamento com .NET" da DIO (Digital Innovation One).
 
 O objetivo foi aplicar os conhecimentos fundamentais da trilha .NET para criar uma aplicação de console funcional que simula a gestão de um estacionamento de veículos. Foram aplicados conceitos de Orientação a Objetos, manipulação de listas, entrada e saída de dados no console e o uso de Expressões Regulares (Regex) para validações.
 
 💻 Funcionalidades
+
 O sistema oferece um menu interativo com as seguintes opções:
 
 ✅ Cadastrar Veículo: Adiciona um veículo ao estacionamento.
@@ -19,6 +21,7 @@ O sistema oferece um menu interativo com as seguintes opções:
 🚪 Encerrar: Finaliza a execução do programa.
 
 🛠️ Tecnologias Utilizadas
+
 As seguintes ferramentas e conceitos foram utilizados na construção do projeto:
 
 Linguagem: C#
